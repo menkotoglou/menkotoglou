@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Menelaos 👋
 
 <!--
-**koti/koti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://twitter.com/MKotoglou">
+  <img  alt="Menelaos' Twitter" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/menelaos-kotoglou-124643178/">
+  <img  alt="Menelaos' LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+My name is Menelaos Kotoglou and I'm currently studying Computer Engineering and Informatics at Cyprus University of Technology.</br>
+
+I prefer programming in Python and currently learning Golang, but I'm constantly trying to find and explore new languages, frameworks, and libraries.</br>
+
+Machine Learning and Software Development are my main passions.
