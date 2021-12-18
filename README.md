@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Menelaos' GitHub stats](https://github-readme-stats.vercel.app/api?username=menkotoglou&count_private=true)
+![Menelaos' GitHub stats](https://github-readme-stats.vercel.app/api?username=menkotoglou&count_private=true&show_icons=true&theme=tokyonight)
 
 <a href="https://twitter.com/MKotoglou" target="_blank">
   <img  alt="Menelaos' Twitter" tar width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
