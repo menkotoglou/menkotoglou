@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 My name is Menelaos Kotoglou and I'm currently studying Computer Engineering and Informatics at Cyprus University of Technology.</br>
 
-I prefer programming in Python, but I'm constantly trying to find and explore new languages, frameworks, and libraries. Currently learning Golang.</br>
+I prefer programming in Python, but I'm constantly trying to find and explore new languages, frameworks, and libraries.</br>
 
-Machine Learning and Software Development are my main passions.
+Software Development and Machine Learning are my main passions.
